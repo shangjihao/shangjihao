@@ -19,6 +19,7 @@
 
 <p align="left">
     <a href="https://github.com/shangjihao/AskAIs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shangjihao&repo=AskAIs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AskAIs"></a>
+  <a href="https://github.com/shangjihao/video-consuming-system"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shangjihao&repo=AskAIs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="video-consuming-system"></a>
 </p>
 
 ### Logseq 插件
