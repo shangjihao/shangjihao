@@ -18,6 +18,7 @@
 
 <p align="left">
     <a href="https://github.com/shangjihao/userscript-weibo-thread"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shangjihao&repo=userscript-weibo-thread&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="userscript-weibo-thread"></a>
+  <a href="https://github.com/shangjihao/userscript-weibo-zen"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shangjihao&repo=userscript-weibo-zen&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="userscript-weibo-zen"></a>
     <a href="https://github.com/shangjihao/userscript-bilibili-raindrop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shangjihao&repo=userscript-bilibili-raindrop&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="userscript-bilibili-raindrop"></a>
     <a href="https://github.com/shangjihao/userscript-ticktick-logseq"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=shangjihao&repo=userscript-ticktick-logseq&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="userscript-ticktick-logseq"></a>
 </p>
