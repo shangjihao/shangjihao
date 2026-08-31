@@ -29,6 +29,7 @@
 
 <p align="left">
     <a href="https://github.com/shangjihao/logseq-raindrop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shangjihao&repo=logseq-raindrop&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="logseq-raindrop"></a>
+  <a href="https://github.com/shangjihao/logseq-card-view"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shangjihao&repo=logseq-card-view&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="logseq-card-view"></a>
     <a href="https://github.com/shangjihao/logseq-link-filter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shangjihao&repo=logseq-link-filter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="logseq-link-filter"></a>
     <a href="https://github.com/shangjihao/logseq-tag-organizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shangjihao&repo=logseq-tag-organizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="logseq-tag-organizer"></a>
 </p>
